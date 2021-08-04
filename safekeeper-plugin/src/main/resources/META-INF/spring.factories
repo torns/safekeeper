@@ -1,1 +1,1 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.changhong.framework.plugin.configuration.SafeKeeperAutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=cn.safekeeper.plugin.configuration.SafeKeeperAutoConfiguration
